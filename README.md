@@ -1,4 +1,21 @@
-# Advanced Windows Admin Toolkit v1.0
+# Advanced Admin Toolkit Suite v1.0
+
+A comprehensive multi-platform system administration toolkit with both **Windows** and **Linux** versions. Each provides 70+ diagnostic, repair, security audit, and optimization features in an easy-to-navigate menu interface.
+
+## Platform Support
+
+- **Windows** - `AdminToolkit.bat` (76 options)
+- **Linux** - `LinuxAdminToolkit.sh` (72 options)
+
+## Documentation
+
+- **Windows Users** → See main [README.md](README.md)
+- **Linux Users** → See [LINUX_README.md](LINUX_README.md)
+- **Linux Quick Start** → See [LINUX_QUICKSTART.md](LINUX_QUICKSTART.md)
+
+---
+
+# Windows Admin Toolkit v1.0
 
 A comprehensive batch script utility for Windows system administrators and power users. This toolkit provides 76+ diagnostic, repair, security audit, and optimization features in an easy-to-navigate menu interface.
 
@@ -95,14 +112,14 @@ A comprehensive batch script utility for Windows system administrators and power
 ## Installation
 
 ### Option 1: Direct Download
-1. Download `AdminTool.bat` from the repository
+1. Download `AdminToolkit.bat` from the repository
 2. Save to a convenient location (e.g., Desktop, Program Files)
 3. Right-click → **Run as Administrator**
 
 ### Option 2: Clone Repository
 ```bash
-git clone https://github.com/PwnPoint/Advanced-Windows-Admin-Toolkit.git
-cd Advanced-Windows-Admin-Toolkit
+git clone https://github.com/PwnPoint/Advanced-System-Admin-Toolkit.git
+cd Advanced-System-Admin-Toolkit
 ```
 
 ## Usage
@@ -110,7 +127,7 @@ cd Advanced-Windows-Admin-Toolkit
 ### Basic Operation
 1. Run the script with administrator privileges:
    ```
-   Right-click AdminToolkit.bat → Run as Administrator
+   Right-click AdminTool.bat → Run as Administrator
    ```
 
 2. Navigate through three menu pages using numbers or letters:
@@ -226,7 +243,7 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 **Chisom** - Advanced Windows Admin Toolkit Creator
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please feel free to:
 - Report bugs
@@ -273,4 +290,3 @@ For issues, questions, or suggestions:
 
 **⚠️ Disclaimer:** This tool modifies system settings and should only be used by experienced system administrators. 
 
-**Last Updated:** May 31, 2026
