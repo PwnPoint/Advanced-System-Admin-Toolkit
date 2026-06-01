@@ -150,13 +150,6 @@ whoami
 ls -la ~/Desktop/
 ```
 
-## Getting Help
-
-1. Check [LINUX_README.md](LINUX_README.md) for detailed documentation
-2. See [TROUBLESHOOTING.md](TROUBLESHOOTING.md) for common issues
-3. Review [CONTRIBUTING.md](CONTRIBUTING.md) for support options
-4. Open an issue on GitHub
-
 ## Pro Tips
 
 1. **Run regular reports**: Schedule with cron for automated audits
@@ -164,14 +157,6 @@ ls -la ~/Desktop/
 3. **Share with team**: Reports are text format, easy to share
 4. **Test first**: Run on non-production systems first
 5. **Read warnings**: Some operations are system-modifying
-
-## Next Steps
-
-- Read [LINUX_README.md](LINUX_README.md) for complete documentation
-- Explore all menu options
-- Generate your first full report (Option 72)
-- Customize for your needs
-- Share feedback!
 
 ---
 
